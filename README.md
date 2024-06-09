@@ -55,10 +55,13 @@ To create an executable for the application, use PyInstaller:
    pyinstaller MLV2.spec
 
 ## Usage
-Search for Tracks: Enter a keyword or URL in the search bar and click "Search".
-Add to Queue: Select tracks from the search results and click "Add to Queue".
-Select Quality: Choose the desired audio format (MP3, WAV, FLAC) from the dropdown menu.
-Download Queue: Click "Download Queue" to start downloading the queued tracks. Monitor the progress via the progress bar.
+1. Search for Tracks: Enter a keyword or URL in the search bar and click "Search".
+
+2. Add to Queue: Select tracks from the search results and click "Add to Queue".
+
+3. Select Quality: Choose the desired audio format (MP3, WAV, FLAC) from the dropdown menu.
+
+4. Download Queue: Click "Download Queue" to start downloading the queued tracks. Monitor the progress via the progress bar.
 
 ## Troubleshooting
 Ensure all required libraries are installed.
